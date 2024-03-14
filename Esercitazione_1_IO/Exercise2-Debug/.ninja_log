@@ -1,0 +1,23 @@
+# ninja log v5
+7	1224	7321383330269875	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+1224	2771	7321383345695843	MeanValue.exe	8a84d34330421bc6
+4	856	7321383840369934	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+856	1034	7321383842083945	MeanValue.exe	8a84d34330421bc6
+5	821	7321383895366593	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+821	985	7321383896819822	MeanValue.exe	8a84d34330421bc6
+5	763	7321385453844149	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+764	928	7321385455313114	MeanValue.exe	8a84d34330421bc6
+8	822	7321385562400246	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+824	992	7321385563904649	MeanValue.exe	8a84d34330421bc6
+5	765	7321386310181536	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+765	917	7321386311587026	MeanValue.exe	8a84d34330421bc6
+5	793	7321386568566045	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+794	961	7321386570099104	MeanValue.exe	8a84d34330421bc6
+6	1021	7321386755253969	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+1022	1170	7321386756659436	MeanValue.exe	8a84d34330421bc6
+7	798	7321387015636513	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+798	962	7321387017159930	MeanValue.exe	8a84d34330421bc6
+5	804	7321387379411840	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+805	974	7321387380956642	MeanValue.exe	8a84d34330421bc6
+7	802	7321389182238066	CMakeFiles/MeanValue.dir/main.cpp.obj	c72e5302ecfd1cbc
+803	956	7321389183624682	MeanValue.exe	8a84d34330421bc6

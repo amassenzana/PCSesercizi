@@ -1,0 +1,4 @@
+C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/SumValues.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/RIPASSO.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/edit_cache.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/rebuild_cache.dir

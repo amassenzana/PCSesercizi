@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/externals/Main_Build/eigen3/blas",
+	"dir-cur-src" : "C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/externals/Main_Source/eigen3/blas",
+	"dir-top-bld" : "C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/externals/Main_Build/eigen3",
+	"dir-top-src" : "C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/externals/Main_Source/eigen3",
+	"exports" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\masse\\OneDrive\\Desktop\\PCS\\PCS2024_Exercises\\externals\\Main_Source\\eigen3"
+	],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/masse/OneDrive/Desktop/PCS/PCS2024_Exercises/externals/Main_Build/eigen3/blas",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}
