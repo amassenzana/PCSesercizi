@@ -1,0 +1,3 @@
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_1_IO/DBG-Exercise2/CMakeFiles/MeanValue.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_1_IO/DBG-Exercise2/CMakeFiles/edit_cache.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_1_IO/DBG-Exercise2/CMakeFiles/rebuild_cache.dir

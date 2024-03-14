@@ -25,7 +25,7 @@ int main()
     }
 
     // Setup file setting: Intestazione + prima riga
-    double d = 0, sum = 0, media;
+    double d = 0, sum = 0;
 
     data >> d;
     sum = mapping(d);

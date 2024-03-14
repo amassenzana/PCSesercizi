@@ -4,17 +4,14 @@
 #include <fstream>
 #include <sstream>
 
-int function(){
-
-}
 
 int main()
 {
     int a = -5;
     double d = M_PI;  // Stands for pi greco
-    char c = ';';
-    bool b = false; // or true
-    unsigned int i = 2;
+    // char c = ';';
+    // bool b = false; // or true
+    // unsigned int i = 2;
     std::string s = "Hello world";  // :: operatore di scope => il tipo string si trova nello scope std
 
     int a1 = 5;

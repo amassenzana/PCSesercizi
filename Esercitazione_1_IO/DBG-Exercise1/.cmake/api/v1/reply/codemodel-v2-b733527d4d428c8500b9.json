@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SumValues",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RIPASSO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RIPASSO-Debug-fe38e853a7e3bce33c84.json",
+					"name" : "RIPASSO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SumValues::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SumValues-Debug-66c9ce1ec6c1ede1b237.json",
+					"name" : "SumValues",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_1_IO/DBG-Exercise1",
+		"source" : "C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_1_IO/Exercise1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
