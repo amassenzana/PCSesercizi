@@ -7,6 +7,7 @@
 
 int main()
 {
+    /*
     int a = -5;
     double d = M_PI;  // Stands for pi greco
     // char c = ';';
@@ -84,7 +85,12 @@ int main()
 
     std::cout << "Somma dei valori: " << sumValues << std::endl;
 
-    fstr.close();
+    fstr.close(); */
+
+    // int a = 2.9;
+    int a(2.9);
+    std::cout << a << std::endl;
+
 
 
     return 0;

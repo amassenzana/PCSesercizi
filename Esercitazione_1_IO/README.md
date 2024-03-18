@@ -1,4 +1,2 @@
-# Input/Output
-
-This folder contains two C++ exercises about input/output operations.
-
+# Esercitazione_1_IO
+Esercitazione 1 Programmazione e calcolo scientifico.
