@@ -2,7 +2,7 @@
 #include <iostream>
 #include <iomanip>
 
-double mapping(double d){
+long double mapping(long double d){
     // la mia trasformazione è:  (d-1) intervallo 0,4; /4 intervallo 0,1; *3 intervallo 0,3; -1 intervallo [-1,2]
     return 3*((d-1)/4) - 1;
 }
@@ -25,7 +25,7 @@ int main()
     }
 
     // Setup file setting: Intestazione + prima riga
-    double d = 0, sum = 0;
+    long double d = 0, sum = 0;
 
     data >> d;
     sum = mapping(d);
