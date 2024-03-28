@@ -6,7 +6,7 @@ using namespace Eigen;
 
 bool SolvePA(const Matrix2d& A, const Vector2d& b, Vector2d& x, double& cond, double& det, double& errRel);
 bool SolveQR(const Matrix2d& A, const Vector2d& b, Vector2d& x, double& cond, double& det, double& errRel);
-double condit(const Matrix2d& A);
+
 
 
 
@@ -64,12 +64,7 @@ int main()
     return 0;
 }
 
-double condit(const Matrix2d& A){
-    JacobiSVD<Matrix2d> svd(A);
-    VectorXd singularValuesA = svd.singularValues();
 
-    return singularValuesA.maxCoeff() / singularValuesA.minCoeff();
-}
 
 
 bool SolvePA(const Matrix2d& A, const Vector2d& b, Vector2d& x, double& cond, double& det, double& errRel){
@@ -112,5 +107,8 @@ bool SolveQR(const Matrix2d& A, const Vector2d& b, Vector2d& x, double& cond, do
     HouseholderQR<Matrix2d> qr(A);
 
     x = qr.solve(b);
+
+    errRel = (exact - x).norm() / exact.norm();
+
     return true;
 }
