@@ -7,7 +7,7 @@ using namespace Rationals;
 
 int main(){
 
-    int b = Rationals::foo(1);
+    int b = foo(1);
     Rational rtest1(3.,2.); // Chiamata a Rational(double,dobule)
     Rational rtest2{3,2};   // Caso particolare
     Rational rtest3;        // Chiamata a costruttore vuoto (=default)
@@ -25,6 +25,5 @@ int main(){
     std::cout << "1.5 + " << r1 << " = " << 1.5 + r1 << std::endl;
 
 
-    std::cout << "\n\nTerminato correttamente\n\n";
     return 0;
 }
