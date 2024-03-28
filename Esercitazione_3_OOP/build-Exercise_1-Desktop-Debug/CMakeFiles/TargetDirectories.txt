@@ -1,0 +1,5 @@
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_3_OOP/build-Exercise_1-Desktop-Debug/CMakeFiles/classRational.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_3_OOP/build-Exercise_1-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_3_OOP/build-Exercise_1-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_3_OOP/build-Exercise_1-Desktop-Debug/src/CMakeFiles/edit_cache.dir
+C:/Users/masse/OneDrive/Desktop/PCS/PCSesercizi/Esercitazione_3_OOP/build-Exercise_1-Desktop-Debug/src/CMakeFiles/rebuild_cache.dir

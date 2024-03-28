@@ -88,8 +88,8 @@ int main()
     fstr.close(); */
 
     // int a = 2.9;
-    int a(2.9);
-    std::cout << a << std::endl;
+    double z{0}, a{1};
+    std::cout << z/z << std::endl;
 
 
 
